@@ -1,0 +1,228 @@
+﻿[
+  {
+    "a1": {
+      "identity": 28,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "value": "移动云"
+      },
+      "elementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:28"
+    },
+    "a2": {
+      "identity": 29,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "value": "苏研"
+      },
+      "elementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:29"
+    },
+    "a3": {
+      "identity": 30,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "value": 600
+      },
+      "elementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:30"
+    },
+    "a4": {
+      "identity": 31,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "value": 6000
+      },
+      "elementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:31"
+    },
+    "a5": {
+      "identity": 32,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "value": "石家庄"
+      },
+      "elementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:32"
+    },
+    "a6": {
+      "identity": 33,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "value": "全栈专属云"
+      },
+      "elementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:33"
+    },
+    "a7": {
+      "identity": 34,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "value": "边缘云"
+      },
+      "elementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:34"
+    },
+    "a8": {
+      "identity": 35,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "value": "保定"
+      },
+      "elementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:35"
+    },
+    "a9": {
+      "identity": 36,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "value": "沧州"
+      },
+      "elementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:36"
+    },
+    "a10": {
+      "identity": 37,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "value": "河北移动"
+      },
+      "elementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:37"
+    },
+    "r1": {
+      "identity": 1152925902653358108,
+      "start": 28,
+      "end": 29,
+      "type": "Edge",
+      "properties": {
+        "value": "建设单位"
+      },
+      "elementId": "5:c0ad4114-152b-4d9e-907d-b0e7608f6112:1152925902653358108",
+      "startNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:28",
+      "endNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:29"
+    },
+    "r2": {
+      "identity": 1155177702467043356,
+      "start": 28,
+      "end": 30,
+      "type": "Edge",
+      "properties": {
+        "unit": "台",
+        "year": 2020,
+        "value": "建设规模"
+      },
+      "elementId": "5:c0ad4114-152b-4d9e-907d-b0e7608f6112:1155177702467043356",
+      "startNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:28",
+      "endNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:30"
+    },
+    "r3": {
+      "identity": 1157429502280728604,
+      "start": 28,
+      "end": 31,
+      "type": "Edge",
+      "properties": {
+        "unit": "万元",
+        "year": 2020,
+        "value": "建设投资"
+      },
+      "elementId": "5:c0ad4114-152b-4d9e-907d-b0e7608f6112:1157429502280728604",
+      "startNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:28",
+      "endNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:31"
+    },
+    "r4": {
+      "identity": 1159681302094413852,
+      "start": 28,
+      "end": 32,
+      "type": "Edge",
+      "properties": {
+        "value": "建设局址"
+      },
+      "elementId": "5:c0ad4114-152b-4d9e-907d-b0e7608f6112:1159681302094413852",
+      "startNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:28",
+      "endNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:32"
+    },
+    "r5": {
+      "identity": 1152925902653358113,
+      "start": 33,
+      "end": 32,
+      "type": "Edge",
+      "properties": {
+        "value": "建设局址"
+      },
+      "elementId": "5:c0ad4114-152b-4d9e-907d-b0e7608f6112:1152925902653358113",
+      "startNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:33",
+      "endNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:32"
+    },
+    "r6": {
+      "identity": 1155177702467043361,
+      "start": 33,
+      "end": 29,
+      "type": "Edge",
+      "properties": {
+        "value": "建设单位"
+      },
+      "elementId": "5:c0ad4114-152b-4d9e-907d-b0e7608f6112:1155177702467043361",
+      "startNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:33",
+      "endNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:29"
+    },
+    "r7": {
+      "identity": 1157429502280728609,
+      "start": 33,
+      "end": 35,
+      "type": "Edge",
+      "properties": {
+        "value": "建设局址"
+      },
+      "elementId": "5:c0ad4114-152b-4d9e-907d-b0e7608f6112:1157429502280728609",
+      "startNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:33",
+      "endNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:35"
+    },
+    "r8": {
+      "identity": 1152925902653358114,
+      "start": 34,
+      "end": 35,
+      "type": "Edge",
+      "properties": {
+        "value": "建设局址"
+      },
+      "elementId": "5:c0ad4114-152b-4d9e-907d-b0e7608f6112:1152925902653358114",
+      "startNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:34",
+      "endNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:35"
+    },
+    "r9": {
+      "identity": 1155177702467043362,
+      "start": 34,
+      "end": 36,
+      "type": "Edge",
+      "properties": {
+        "value": "建设局址"
+      },
+      "elementId": "5:c0ad4114-152b-4d9e-907d-b0e7608f6112:1155177702467043362",
+      "startNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:34",
+      "endNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:36"
+    },
+    "r10": {
+      "identity": 1157429502280728610,
+      "start": 34,
+      "end": 37,
+      "type": "Edge",
+      "properties": {
+        "value": "建设单位"
+      },
+      "elementId": "5:c0ad4114-152b-4d9e-907d-b0e7608f6112:1157429502280728610",
+      "startNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:34",
+      "endNodeElementId": "4:c0ad4114-152b-4d9e-907d-b0e7608f6112:37"
+    }
+  }
+]

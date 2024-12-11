@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CMCC AI 聊天</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div id="chat-messages" class="chat-messages"></div>
+        <div class="input-container">
+            <div class="upload-container">
+                <input type="file" id="image-upload" accept="image/*" style="display: none;">
+                <button id="upload-button" class="upload-button">📷</button>
+            </div>
+            <textarea id="user-input" placeholder="输入消息..."></textarea>
+            <button id="send-button">发送</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 
